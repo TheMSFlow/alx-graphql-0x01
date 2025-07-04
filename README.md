@@ -1,1 +1,1 @@
-# alx-graphql-0x01
+# Rick and Morty App
